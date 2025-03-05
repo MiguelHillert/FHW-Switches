@@ -3,8 +3,8 @@
 Trabajo sobre periféricos **(Switches)**
 
 
-### 1. [Definición](Definición.md)
+### 1. [Definición](Definicion.md)
 ### 2. [Características](Caracteristicas.md)
 ### 3. [Tipos](Tipos.md)
 ### 4. [Ejemplos_comerciales](Ejemplos_comerciales.md)
-### 5. [Conclusiones](conclusiones.md)
+### 5. [Conclusiones](Conclusiones.md)
