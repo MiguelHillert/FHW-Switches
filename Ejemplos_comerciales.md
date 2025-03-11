@@ -23,4 +23,4 @@
 
 - Rendimiento de reenvío de 720 Mpps
 
-!(img/switch-nexus.avif)
+![nexus](img/switch-nexus.avif)
