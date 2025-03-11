@@ -1,5 +1,5 @@
+##Switches
 
-##🔌 Switches
 Los switches son dispositivos de red fundamentales que operan en la capa de enlace de datos (Capa 2) del modelo OSI. Su función principal es interconectar dos o más segmentos de red, facilitando la comunicación eficiente entre dispositivos dentro de una red de área local (LAN).
 
 Funcionalidad clave:
