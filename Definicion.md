@@ -10,7 +10,7 @@ Funcionalidad clave:
 
 -🧠 Mantienen una tabla de direcciones MAC para tomar decisiones de reenvío inteligentes.
 
-Imagen ilustrativa:
+
 ![Texto alternativo](/img/definicion.jpg)
 
 
