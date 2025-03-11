@@ -1,7 +1,6 @@
 ## Ejemplos comerciales
 
-🖥️ **Cisco Catalyst 9200 Series**  
-_Switch empresarial administrable_
+🖥️ **Cisco Catalyst 9200 Series**    _Switch empresarial administrable_
 
 - Soporte para PoE+
 
@@ -12,8 +11,7 @@ _Switch empresarial administrable_
 -----------------------------
 
 
-🔌 **Netgear GS308E**  
-_Switch administrable de 8 puertos para pequeñas empresas_
+🔌 **Netgear GS308E**    _Switch administrable de 8 puertos para pequeñas empresas_
 
 - Configuración basada en web
 
