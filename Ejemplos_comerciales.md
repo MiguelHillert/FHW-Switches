@@ -1,6 +1,6 @@
 ## Ejemplos comerciales
 
-🖥️ **Cisco Catalyst 9200 Series**   ( _Switch empresarial administrable_)
+### 🖥️ **Cisco Catalyst 9200 Series**   ( _Switch empresarial administrable_)
 
 - Alrededor de los 1000 euros
 
@@ -16,7 +16,7 @@
 -----------------------------
 
 
-🔌 **Cisco Nexus 3548 modelo N3K-C3548P-10GX**   ( _Switch empresarial de alto rendimiento para centros de datos_)
+### 🔌 **Cisco Nexus 3548 modelo N3K-C3548P-10GX**   ( _Switch empresarial de alto rendimiento para centros de datos_)
 
 - Alrededor de 22000 euros
 
