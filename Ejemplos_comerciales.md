@@ -22,3 +22,5 @@
 - Capacidad de conmutación de 960 Gbps
 
 - Rendimiento de reenvío de 720 Mpps
+
+!(img/switch-nexus.avif)
