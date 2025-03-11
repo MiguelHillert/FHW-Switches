@@ -1,6 +1,6 @@
 # FHW-Switches
 
-Trabajo sobre periféricos **(Switches)**
+![Texto alternativo](/img/definicion.jpg)
 
 
 ### 1. [Definición](Definicion.md)
