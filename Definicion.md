@@ -11,7 +11,7 @@ Funcionalidad clave:
 -🧠 Mantienen una tabla de direcciones MAC para tomar decisiones de reenvío inteligentes.
 
 Imagen ilustrativa:
-Switch de red
+![Texto alternativo](/FHW-Switches/img/switches.webp)
 
 
 Los switches son esenciales en la infraestructura de red moderna, proporcionando una base para la conectividad rápida y confiable en entornos desde pequeñas oficinas hasta grandes centros de datos.
