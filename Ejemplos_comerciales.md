@@ -10,6 +10,9 @@
 
 - Velocidades de hasta 10 Gbps
 
+
+![cata](img/catalyst9200.jpg)
+
 -----------------------------
 
 
