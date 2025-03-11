@@ -11,10 +11,11 @@
 -----------------------------
 
 
-🔌 **Netgear GS308E**   ( _Switch administrable de 8 puertos para pequeñas empresas_)
+🔌 **Cisco Nexus 3548 modelo N3K-C3548P-10GX**   ( _Switch empresarial de alto rendimiento para centros de datos
+_)
 
-- Configuración basada en web
+- 48 puertos SFP+ de 10 Gigabit Ethernet
 
-- Soporte para VLAN y QoS
+- Capacidad de conmutación de 960 Gbps
 
-- Velocidades de hasta 1 Gbps
+- Rendimiento de reenvío de 720 Mpps
