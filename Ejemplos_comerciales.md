@@ -1,6 +1,6 @@
 ## Ejemplos comerciales
 
-🖥️ Cisco Catalyst 9200 Series
+🖥️ Cisco Catalyst 9200 Series  
 Switch empresarial administrable
 
 Soporte para PoE+
@@ -12,7 +12,7 @@ Velocidades de hasta 10 Gbps
 -----------------------------
 
 
-🔌 Netgear GS308E
+🔌 Netgear GS308E  
 Switch administrable de 8 puertos para pequeñas empresas
 
 Configuración basada en web
