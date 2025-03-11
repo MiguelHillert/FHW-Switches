@@ -2,7 +2,7 @@
 
 🖥️ **Cisco Catalyst 9200 Series**   ( _Switch empresarial administrable_)
 
-- Precio:Alrededor de los 1000 euros
+- Alrededor de los 1000 euros
 
 - Soporte para PoE+
 
@@ -15,7 +15,7 @@
 
 🔌 **Cisco Nexus 3548 modelo N3K-C3548P-10GX**   ( _Switch empresarial de alto rendimiento para centros de datos_)
 
-- Precio:Alrededor de 22000 euros
+- Alrededor de 22000 euros
 
 - 48 puertos SFP+ de 10 Gigabit Ethernet
 
