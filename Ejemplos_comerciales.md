@@ -11,8 +11,7 @@
 -----------------------------
 
 
-🔌 **Cisco Nexus 3548 modelo N3K-C3548P-10GX**   ( _Switch empresarial de alto rendimiento para centros de datos
-_)
+🔌 **Cisco Nexus 3548 modelo N3K-C3548P-10GX**   ( _Switch empresarial de alto rendimiento para centros de datos_)
 
 - 48 puertos SFP+ de 10 Gigabit Ethernet
 
