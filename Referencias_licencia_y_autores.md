@@ -2,4 +2,4 @@
 
 1. [Cisco](https://www.cisco.com/c/en/us/products/switches/index.html)
 
-2. Netgear. (2021). Business Switches. https://www.netgear.com/business/wired/switches/
+2. [Netgear](https://www.netgear.com/business/wired/switches/)
