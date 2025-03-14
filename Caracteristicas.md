@@ -8,4 +8,4 @@
 
 - 🚀 Pueden soportar velocidades de 10/100/1000 Mbps o superiores
 
-- 🌐 Algunos modelos ofrecen funcionalidades de capa 3 (routing
+- 🌐 Algunos modelos ofrecen funcionalidades de capa 3 (routing)
